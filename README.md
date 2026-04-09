@@ -5,3 +5,5 @@
 地址：https://links.happy7q233.net/sbti
 
 原作者：[B站@蛆肉儿串儿](https://www.bilibili.com/video/BV1LpDHByET6/)
+
+改动：把背景改成深色。
